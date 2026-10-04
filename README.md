@@ -30,3 +30,8 @@ Next.js · TypeScript · React · Node.js · Python · PostgreSQL · Docker · C
 For work, consulting, or thoughtful collaboration: [contact@italewa.com](mailto:contact@italewa.com)
 
 Based in **Abuja, Nigeria** · open to **global / remote** opportunities.
+
+
+## Case study
+
+Read the [Italewa public case study](https://github.com/teamdioski-beep/italewa-case-study) for the product story.
