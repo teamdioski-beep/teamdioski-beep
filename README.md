@@ -1,39 +1,23 @@
-# Deendisclosure
+# Deen
 
-**Deen** — founder of **Seven Hundred Percent**, building and operating thoughtful production web products from Abuja, Nigeria.
+I’m Deen, founder of **Seven Hundred Percent**. I build and run production web products for people who need software that works in the real world.
 
-I work across AI systems, full-stack product engineering, and consulting. I care about clear product thinking, reliable delivery, and software that earns trust.
+I work from **Abuja · New York · London**.
 
-## What I do
+## What I’m building
 
-- AI systems and practical automation
-- Full-stack web products from idea to production
-- Technical strategy, architecture, and consulting
-- Available for global and remote engagements
+**Seven Hundred Percent** is where I make products, help teams ship, and take on select global work.
 
-## Selected focus
+**Italewa** is a live product for finding and comparing places to stay. See it at [italewa.com](https://italewa.com).
 
-| Focus | What it means |
-| --- | --- |
-| Product engineering | Turning ambiguous ideas into maintainable, production-ready software |
-| AI systems | Designing useful, dependable workflows around modern AI capabilities |
-| Operations | Shipping, observing, and improving products in real-world environments |
-
-I build private production products and client work; details are shared selectively.
-
-## Tools I use
-
-Next.js · TypeScript · React · Node.js · Python · PostgreSQL · Docker · Cloudflare · Coolify
+Some product source and client work are private. I share the details that are useful and keep the internals private.
 
 ## Contact
 
-For work, consulting, or thoughtful collaboration: [contact@italewa.com](mailto:contact@italewa.com)
+For work or a product conversation: [contact@italewa.com](mailto:contact@italewa.com)
 
-Based in **Abuja, Nigeria** · open to **global / remote** opportunities.
-
+[LinkedIn](https://www.linkedin.com/in/munirudeen-o-a-506a65120)
 
 ## Case study
 
-Read the [Italewa public case study](https://github.com/teamdioski-beep/italewa-case-study) for the product story.
-
-LinkedIn: https://www.linkedin.com/in/munirudeen-o-a-506a65120
+[Read the Italewa case study](https://github.com/teamdioski-beep/italewa-case-study).
