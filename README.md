@@ -35,3 +35,5 @@ Based in **Abuja, Nigeria** · open to **global / remote** opportunities.
 ## Case study
 
 Read the [Italewa public case study](https://github.com/teamdioski-beep/italewa-case-study) for the product story.
+
+LinkedIn: https://www.linkedin.com/in/munirudeen-o-a-506a65120
