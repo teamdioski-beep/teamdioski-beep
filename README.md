@@ -8,7 +8,7 @@ I work from **Abuja · New York · London**.
 
 **Seven Hundred Percent** is where I make products, help teams ship, and take on select global work.
 
-**Italewa** is a live product for event centers and creative spaces — galleries, guest experiences, booking interest. See [italewa.com](https://italewa.com).
+**Italewa** is a live event photo product. Guests scan a QR at the event, agree to a face scan, and save the photos they're in, while photographers host the gallery. See [italewa.com](https://italewa.com).
 
 Some product source and client work are private. I share the details that are useful and keep the internals private.
 
@@ -20,4 +20,4 @@ For work or a product conversation: [contact@italewa.com](mailto:contact@italewa
 
 ## Case study
 
-Read the Italewa case study.
+Read the [Italewa case study](https://github.com/teamdioski-beep/italewa-case-study).
